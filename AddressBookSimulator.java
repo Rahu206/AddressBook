@@ -7,7 +7,7 @@ public class AddressBookSimulator {
 	private static HashMap<String, AddressBookMain> booksMap = new HashMap<>();
 
 	/**
-	 * main method
+	 ** main method
 	 */
 	public static void main(String[] args) {
 		System.out.println("Welcome to Address Book");
